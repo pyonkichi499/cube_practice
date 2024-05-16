@@ -1,0 +1,10 @@
+[
+    {"name": "time", "type": "FLOAT", "mode": "REQUIRED"},
+    {"name": "comment", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "scramble", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "recorded_at", "type": "TIMESTAMP", "mode": "REQUIRED"},
+    {"name": "cross", "type": "FLOAT", "mode": "NULLABLE"},
+    {"name": "f2l", "type": "FLOAT", "mode": "NULLABLE"},
+    {"name": "oll", "type": "FLOAT", "mode": "NULLABLE"},
+    {"name": "pll", "type": "FLOAT", "mode": "NULLABLE"}
+  ]
